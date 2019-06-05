@@ -19,6 +19,10 @@ public class Cached {
         Cached.cid = cid;
     }
 
+    public static void setOid(int oid) {
+        Cached.oid = oid;
+    }
+
     public static int getFid() {
         return fid;
     }

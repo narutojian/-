@@ -13,6 +13,7 @@ public class LoginPage {
     private int cid;
     private String pwd;
 
+
     public LoginPage(){}
     public LoginPage(int cid,String pwd) {
         super();
